@@ -20,19 +20,25 @@ View the results of the check in the console output.
 #3 education we will not be responsible in such cases.
 
 # output
-
+```batch
 The secret key is valid for the Stripe account acct_1MHEZiAVlLz2SxSh.
-
 CVC check: None
-
 Decline code: None
-
 Message: 
-
 ------BIN lookup result:------
-
 Bank: CAPITAL ONE BANK
-
 Country: US
-
 Type: Credit
+```
+
+```
+The secret key is valid for the Stripe account acct_1MHEZiAVlLz2SxSh.
+Stripe CardError: Request req_Z3J8mJsNEolRU0: Your card number is incorrect.
+CVC check: None
+Decline code: None
+Message: Request req_Z3J8mJsNEolRU0: Your card number is incorrect.
+------BIN lookup result:------
+Bank: CREDIT AGRICOLE
+Country: FR
+Type: Credit
+```

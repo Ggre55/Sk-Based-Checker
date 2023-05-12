@@ -1,9 +1,4 @@
-import stripe
-import requests
-import logging
-
-secret = "put key   here"
-stripe.api_key = secret
+Go and buy it 
  
   #########################MAKE SURE YOU READ THIS#########################
 ############################################################################

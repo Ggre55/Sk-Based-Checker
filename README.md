@@ -22,11 +22,6 @@ Check the validity of your Stripe API secret keys, generate random users, create
 **On**:
 https://ggre55store.itch.io/sk-based-cc-checker-v16
 
-**Or**:
-https://Ggre55Store.sellix.io/product/63442d5701c96
-
-**Or**:
-https://ggre55store.sell.app/product/sk-based-cc-checker-v16
 ## USAGE
 
 Install Python and ensure the requests and Stripe libraries are installed.
